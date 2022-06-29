@@ -4,6 +4,6 @@ int main() {
     int age;
     printf("Hellow World\n");
     scanf("%d", &age);
-    printf("agetttp %d",age);
+    printf("agep %d",age);
     return 0;
 }
